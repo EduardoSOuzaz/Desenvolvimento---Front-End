@@ -19,16 +19,4 @@ JavaScript is a programming language that adds interactivity and dynamism to web
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50"/>](https://www.javascript.com/) [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-## Additional Resources
-
-In addition to the languages mentioned above, front-end development also involves the use of various tools, frameworks, and libraries to facilitate developers' work. Here are some of them:
-
-- [Bootstrap](https://getbootstrap.com/): A popular front-end framework for creating responsive layouts and modern designs.
-- [React](https://reactjs.org/): A JavaScript library for building user interfaces.
-- [Vue.js](https://vuejs.org/): A progressive JavaScript framework for building interactive user interfaces.
-- [Sass](https://sass-lang.com/): A CSS preprocessor that adds features such as variables, mixins, and nesting.
-- [Webpack](https://webpack.js.org/): A module bundler for JavaScript.
-- [Gulp](https://gulpjs.com/): A task automation tool for web development.
-
-Explore these resources to enhance your front-end development skills!
 
