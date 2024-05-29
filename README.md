@@ -1,3 +1,3 @@
 # Desenvolvimento---Front-End
-const yellow = require('javascript-yellow')
-const logo = require('javascript-yellow/logo')
+[![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)](https://www.javascript.com/)
+
